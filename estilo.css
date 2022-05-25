@@ -295,5 +295,14 @@ td{
     font-weight: 250;
     font-size: 18px;
 
-
 }
+
+footer{
+        background: #E82709;
+        color: white;
+        text-align: center;
+        height: 50px;
+        width: 1331px;
+        line-height: 50px;
+        border: 1px solid black;
+    }
